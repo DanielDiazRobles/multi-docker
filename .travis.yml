@@ -19,5 +19,5 @@ after_success:
   - docker push danieldiazrobles/multi-client
   - docker push danieldiazrobles/multi-nginx
   - docker push danieldiazrobles/multi-server
-  - docker push danieldiazrobles/multi-client
+  - docker push danieldiazrobles/multi-worker
   
